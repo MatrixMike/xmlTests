@@ -13,8 +13,9 @@ __sudo apt-get install libxml2-dev libxslt1-dev__
 
 
 _There is a script to compile the tests_
-'''
+```
 xmlRunMe.sh
-'''
+```
+
 
 
