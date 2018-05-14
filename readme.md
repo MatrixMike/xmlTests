@@ -4,9 +4,9 @@ Here I have collected some programs that I will work on to read and create .xml 
 
 _There is a shell script to create executable programs_
 
-**to support the compilation we need libraries   **
+##to support the compilation we need libraries.
 
-_The **whereis** command_ is useful 
+__The **whereis** command__ is useful.
 
 \*You may need to install the xml libraries with \*
 sudo apt-get install libxml2-dev libxslt1-dev
