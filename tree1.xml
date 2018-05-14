@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tree>
+  <directory name=".">
+    <file name="example"></file>
+    <file name="io1.c"></file>
+    <file name="reader2.c"></file>
+    <file name="tinyccJ.txt"></file>
+    <file name="tinycc.xml"></file>
+    <file name="tree1.xml"></file>
+    <file name="xmlRunMe.sh"></file>
+  </directory>
+  <report>
+    <directories>0</directories>
+    <files>7</files>
+  </report>
+</tree>

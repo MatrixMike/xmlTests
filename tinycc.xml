@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tree>
+  <directory name="/home/mikeh/tinycc/">
+    <directory name="examples">
+    </directory>
+    <directory name="include">
+    </directory>
+    <directory name="lib">
+      <directory name="x86_64">
+      </directory>
+    </directory>
+    <directory name="tests">
+      <directory name="pp">
+      </directory>
+      <directory name="tests2">
+      </directory>
+    </directory>
+    <directory name="win32">
+      <directory name="examples">
+      </directory>
+      <directory name="include">
+        <directory name="sec_api">
+          <directory name="sys">
+          </directory>
+        </directory>
+        <directory name="sys">
+        </directory>
+        <directory name="tcc">
+        </directory>
+        <directory name="winapi">
+          <directory name="psdk_inc">
+          </directory>
+        </directory>
+      </directory>
+      <directory name="lib">
+      </directory>
+      <directory name="tools">
+      </directory>
+      <directory name="vs2015">
+      </directory>
+    </directory>
+    <directory name="x86-64">
+    </directory>
+  </directory>
+  <report>
+    <directories>20</directories>
+  </report>
+</tree>
